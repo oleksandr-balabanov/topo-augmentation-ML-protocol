@@ -18,7 +18,7 @@ The required libraries are matplotlib, numpy, jupyter, and tensorflow (tensorflo
 
 ## The code
 
-The code is given in format of jupter notebooks. There are two folders correspoding to two in our article: topological systems in 1d class AIII and 2d class A. Each folder contains seperate files for creating the datasets and for training the neural network classifiers. 
+The code is given in format of jupter notebooks. There are two folders correspoding to two different cases considered in our article: topological systems in 1d class AIII and 2d class A. Each folder contains seperate files for creating the datasets and for training the neural network classifiers. 
 
 
 
